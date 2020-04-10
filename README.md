@@ -30,7 +30,7 @@
 
 # Conclusion
 
-# Future Recomendations
+# Future Recommendations
 
 # Repository Guide
 
