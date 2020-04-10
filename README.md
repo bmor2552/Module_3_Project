@@ -20,6 +20,8 @@
 
 *The Data*
 
+*The Metrics*
+
 *The Baseline Model*
 
 *Logistic Regression*
