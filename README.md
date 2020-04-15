@@ -27,8 +27,7 @@ The plan of attack was to do the following:
 *The Data:*
    The data was provided by the Kaggle member david_becks which consisted of collected data on churns in telecommunication data.
   
- 
-*The Metrics:*
+ *The Metrics:*
   For the metrics we chose Accuracy Score and the ROC AUC Score, you can find more information on the scoring metrics in the resource section located at the bottom of the READ.me.
 
 
@@ -71,28 +70,36 @@ The plan of attack was to do the following:
 **The Metrics:**
   The links below will contain documentation on ROC_AUC and Accuracy Scores.
   
- *ROC_AUC Score:*  https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html
+
+*ROC_AUC Score:*  https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html
  
- *Accuracy Score:* https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html?highlight=accuracy#sklearn.metrics.accuracy_score
+ 
+*Accuracy Score:* https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html?highlight=accuracy#sklearn.metrics.accuracy_score
   
   
-  **Models:** Below you will find model documentation
+**Models:** Below you will find model documentation
   
-  *Random Forest:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
   
-  *Decision Tree:*  https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+*Random Forest:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
   
-  *Logistic Regression:* https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html 
+  
+*Decision Tree:*  https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
   
-  *Gradient Boost:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+  
+*Logistic Regression:* https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html 
   
-  *AdaBoost:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
+  
+*Gradient Boost:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+  
+  
+*AdaBoost:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
   
  
  # Human Resources 
   
   Lindsey Berlin DS 02-17-2020 Coach
   
+  
   Bryan Arnold DS 02-17-2020 Lead Instructor
   
   
