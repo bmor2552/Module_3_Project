@@ -9,11 +9,11 @@
 
 
 **The Problem:**
-  As the world continues to expand, so does our need to communicate. This is why telecommunication companies are so important, they keep us in touch with one another. With the amount of options your companies offer when it comes to communication, a loyal customer is bond to form amongst the customers you cater to. But that is just an assumption! What if you could tell if a particular customer would churn or not? What if you could predict the loyalty of the people you provide services for? Well my telecom friend you are in luck!!
+  As the world continues to expand, so does our need to communicate. This is why telecommunication companies are so important, they keep us in touch with one another. With the amount of options your companies offer when it comes to communication, a loyal customer is bond to form amongst the customers you cater to. But that is just an assumption! What if you could tell if a particular customer would churn or not?
 
 
 **The Solution:**
-  The top two things when it comes to a business are both making saving money & making money. So if we could tell you who amongst your customer roster will discontinue their services with you, you could create a focus group for that newly discovered roster. From there you could work on potential loyal customers who may just need a little more love when it comes to their services. But before you show them some love you need to find out who needs it first, and that is where our model comes in and predicts who will churn on you. 
+   If we could tell you who amongst your customer roster will discontinue their services with you, you could create a focus group for that newly discovered roster. From there you could work on potential loyal customers who may just need a little more love when it comes to their services. But before you show them some love you need to find out who needs it first, and that is where our model comes in and predicts who will churn on you. 
 
 
 **The Process**
@@ -35,7 +35,7 @@ The plan of attack was to do the following:
 ***Logistic Regression***
 
 
-***Gradient Boost & AdaBoost:***  The two methods above fall under the ensemble category of modeling. We wanted to give the two models a try to see how they would perform. Boosting in general trains decision trees iteratively so that the next tree it builds makes up for the weakness of the previous tree (improving each tree one at a time vs. all at once --> random forest ). In the repository guide located at the bottom of the READ.me you will find the notebook that contains booth gradient boost and adaboost.  
+***Gradient Boost & AdaBoost:***  The two methods above fall under the ensemble category of modeling. We wanted to give the two models a try to see how they would perform. Boosting in general trains decision trees iteratively so that the next tree it builds makes up for the weakness of the previous tree (improving each tree one at a time vs. all at once --> random forest). In the repository guide located at the bottom of the READ.me you will find the notebook that contains booth gradient boost and adaboost.  
 
 
 ***Encoders:***
