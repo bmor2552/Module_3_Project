@@ -35,7 +35,7 @@ The plan of attack was to do the following:
 ***Logistic Regression***
 
 
-***Gradient Boost & AdaBoost:***  The two methods above fall under the ensemble category of modeling. We wanted to give the two models a try to see how they would perform. Boosting in general trains decision trees iteratively so that the next tree it builds makes up for the weakness of the previous tree (improving each tree one at a time vs. all at once --> random forest does). In the repository guide located at the bottom of the READ.me you will find the notebook that contains booth gradient boost and adaboost.  
+***Gradient Boost & AdaBoost:***  The two methods above fall under the ensemble category of modeling. We wanted to give the two models a try to see how they would perform. Boosting in general trains decision trees iteratively so that the next tree it builds makes up for the weakness of the previous tree (improving each tree one at a time vs. all at once --> random forest ). In the repository guide located at the bottom of the READ.me you will find the notebook that contains booth gradient boost and adaboost.  
 
 
 ***Encoders:***
