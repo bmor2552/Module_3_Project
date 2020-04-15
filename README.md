@@ -18,15 +18,28 @@
 
 **The Process**
 
-*The Data*
+The plan of attack was to do the following:
+1. Explore & Clean data 
+2. Transform data 
+3. Model the data
 
-*The Metrics*
+The three steps we are all familiar with when it comes to a new data set! Before we touched the data, we used what we have learned so ofar about binary classification problems to choose how we would measure the performance of our model. 
+
+
+*The Data:*
+  
+
+
+
+*The Metrics:*
+  For the metrics we chose Accuracy Score and the ROC AUC Score, you can find more information on the scoring metrics in the resource section below.
+
 
 *The Baseline Model*
 
 *Logistic Regression*
 
-*Gradient Boost*
+*Gradient Boost & AdaBoost*
 
 
 
@@ -35,6 +48,7 @@
 # Future Recommendations
 
 # Repository Guide
+
 
 # Team Members 
 
@@ -45,3 +59,31 @@
 
 # Resources
 
+**The Data:**
+  The data was provided by the Kaggle member david_becks which consisted of collected data on churns in telecommunication data.
+  
+  https://www.kaggle.com/becksddf/churn-in-telecoms-dataset
+
+
+**The Metrics:**
+  The links below will speak more on ROC_AUC and Accuracy Scores.
+  
+  
+  **Models:** Below you will find model documentation
+  
+  *Random Forest:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+  
+  *Logistic Regression:* https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html 
+  
+  *Gradient Boost:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+  
+  *AdaBoost:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
+  
+ 
+ # Human Resources 
+  
+  Lindsey Berlin DS 02-17-2020 Coach
+  
+  Bryan Arnold DS 02-17-2020 Lead Instructor
+  
+  
