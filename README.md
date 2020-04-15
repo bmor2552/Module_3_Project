@@ -25,7 +25,7 @@ The plan of attack was to do the following:
 
 
 ***The Data:*** The data was provided by the Kaggle member david_becks which consisted of collected data on churns in telecommunication data.
-  
+
 ***The Metrics:*** For the metrics we chose Accuracy Score and the ROC AUC Score, you can find more information on the scoring metrics in the resource section located at the bottom of the READ.me.
 
 
@@ -93,9 +93,9 @@ https://www.kaggle.com/becksddf/churn-in-telecoms-dataset
  # Human Resources 
   
   
-  Lindsey Berlin DS 02-17-2020 Coach
+ Lindsey Berlin DS 02-17-2020 Coach
   
   
-  Bryan Arnold DS 02-17-2020 Lead Instructor
+ Bryan Arnold DS 02-17-2020 Lead Instructor
   
   
