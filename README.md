@@ -24,21 +24,21 @@ The plan of attack was to do the following:
 3. Model the data
 
 
-*The Data:* The data was provided by the Kaggle member david_becks which consisted of collected data on churns in telecommunication data.
+***The Data:*** The data was provided by the Kaggle member david_becks which consisted of collected data on churns in telecommunication data.
   
-*The Metrics:* For the metrics we chose Accuracy Score and the ROC AUC Score, you can find more information on the scoring metrics in the resource section located at the bottom of the READ.me.
+***The Metrics:*** For the metrics we chose Accuracy Score and the ROC AUC Score, you can find more information on the scoring metrics in the resource section located at the bottom of the READ.me.
 
 
-*The Baseline Model:* The baseline model we chose to go with was the Random Forest Classifier because it handles imbalance and multicollinearity in the data. In the repository guide located at the bottom of the READ.me you will find the notebook that contains the cleaning, transforming, and exploring of the data, as well as the baseline model, along with a Decision Tree Classifier model. 
+***The Baseline Model:*** The baseline model we chose to go with was the Random Forest Classifier because it handles imbalance and multicollinearity in the data. In the repository guide located at the bottom of the READ.me you will find the notebook that contains the cleaning, transforming, and exploring of the data, as well as the baseline model, along with a Decision Tree Classifier model. 
 
 
-*Logistic Regression*
+***Logistic Regression***
 
 
-*Gradient Boost & AdaBoost:*  The two methods above fall under the ensemble category of modeling. We wanted to give the two models a try to see how they would perform. Boosting in general trains decision trees iteratively so that the next tree it builds makes up for the weakness of the previous tree (improving each tree one at a time vs. all at once --> random forest does). In the repository guide located at the bottom of the READ.me you will find the notebook that contains booth gradient boost and adaboost.  
+***Gradient Boost & AdaBoost:***  The two methods above fall under the ensemble category of modeling. We wanted to give the two models a try to see how they would perform. Boosting in general trains decision trees iteratively so that the next tree it builds makes up for the weakness of the previous tree (improving each tree one at a time vs. all at once --> random forest does). In the repository guide located at the bottom of the READ.me you will find the notebook that contains booth gradient boost and adaboost.  
 
 
-*Encoders:*
+***Encoders:***
 
 
 # Conclusion
@@ -57,12 +57,12 @@ The plan of attack was to do the following:
 
 # Resources
 
-**The Data:** Below is the direct link to our data source.
+**The Data: Below is the direct link to our data source.**
 
 https://www.kaggle.com/becksddf/churn-in-telecoms-dataset
 
 
-**The Metrics:** The links below will contain documentation on ROC_AUC and Accuracy Scores.
+**The Metrics: The links below will contain documentation on ROC_AUC and Accuracy Scores.**
   
 
 *ROC_AUC Score:*  https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html
@@ -71,7 +71,7 @@ https://www.kaggle.com/becksddf/churn-in-telecoms-dataset
 *Accuracy Score:* https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html?highlight=accuracy#sklearn.metrics.accuracy_score
 
 
-**Models:** Below you will find model documentation
+**Models: Below you will find model documentation**
 
 
 *Random Forest:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
