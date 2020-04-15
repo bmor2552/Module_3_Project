@@ -38,7 +38,10 @@
 
 # Team Members 
 
-**Boi Moriba:**  https://github.com/bmor2552  
+1. **Boi Moriba:**  https://github.com/bmor2552  
+
+2. **Takehiro Yasuoka:** https://github.com/Tyasuoka
+
 
 # Resources
 
