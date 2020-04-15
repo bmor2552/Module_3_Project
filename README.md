@@ -27,15 +27,15 @@ The three steps we are all familiar with when it comes to a new data set! Before
 
 
 *The Data:*
+   The data was provided by the Kaggle member david_becks which consisted of collected data on churns in telecommunication data.
   
-
-
-
+ 
 *The Metrics:*
-  For the metrics we chose Accuracy Score and the ROC AUC Score, you can find more information on the scoring metrics in the resource section below.
+  For the metrics we chose Accuracy Score and the ROC AUC Score, you can find more information on the scoring metrics in the resource section located at the bottom of the READ.me.
 
 
-*The Baseline Model*
+*The Baseline Model:*
+  The baseline model we chose to go with was the Random Forest Classifier because it handles imbalance and muticollineararity in the data. In the reprosity guide located at the bottom of the READ.me you will find the notebook that contains the cleaning, transforming, and exploring of the data, as well as the baseline model, along with a Descion Tree Classifier model. 
 
 *Logistic Regression*
 
@@ -60,7 +60,7 @@ The three steps we are all familiar with when it comes to a new data set! Before
 # Resources
 
 **The Data:**
-  The data was provided by the Kaggle member david_becks which consisted of collected data on churns in telecommunication data.
+  Below is the direct link to our data source.
   
   https://www.kaggle.com/becksddf/churn-in-telecoms-dataset
 
@@ -72,6 +72,8 @@ The three steps we are all familiar with when it comes to a new data set! Before
   **Models:** Below you will find model documentation
   
   *Random Forest:* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+  
+  *Decision Tree:*  https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
   
   *Logistic Regression:* https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html 
   
