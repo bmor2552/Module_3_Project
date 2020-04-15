@@ -38,5 +38,7 @@
 
 # Team Members 
 
+**Boi Moriba:**  https://github.com/bmor2552  
+
 # Resources
 
