@@ -23,34 +23,39 @@ The plan of attack was to do the following:
 2. Transform data 
 3. Model the data
 
+**In the repository guide located at the bottom of the README you will find the links to the notebooks & csv files for the following descriptions:**  
+
 
 ***The Data:*** The data was provided by the Kaggle member david_becks which consisted of collected data on churns in telecommunication companies.
 
-***The Metrics:*** For the metrics we chose Accuracy Score and the ROC AUC Score, you can find more information on the scoring metrics in the resource section located at the bottom of the READ.me.
+
+***The Metrics:*** For the metrics we chose Accuracy Score and the ROC AUC Score.
 
 
-***The Baseline Model:*** The baseline model we chose to go with was the Random Forest Classifier because it handles imbalance and multicollinearity in the data. In the repository guide located at the bottom of the READ.me you will find the notebook that contains the cleaning, transforming, and exploring of the data, as well as the baseline model, along with a Decision Tree Classifier model. 
+***The Baseline Model:*** The baseline model we chose to go with was the Random Forest Classifier because it handles imbalance and multicollinearity in the data. 
 
 
-***Logistic Regression***
+***Logistic Regression:*** We tried using the encoders below as well as balacing the data by using the class_weight parameter. 
 
 
-***Gradient Boost & AdaBoost:***  The two methods above fall under the ensemble category of modeling. We wanted to give the two models a try to see how they would perform. Boosting in general trains decision trees iteratively so that the next tree it builds makes up for the weakness of the previous tree (improving each tree one at a time vs. all at once --> random forest). In the repository guide located at the bottom of the READ.me you will find the notebook that contains booth gradient boost and adaboost.  
+***Gradient Boost & AdaBoost:***  These two methods fall under the ensemble category of modeling. We wanted to give the two models a try to see how they would perform. Boosting in general trains decision trees iteratively so that the next tree it builds makes up for the weakness of the previous tree (improving each tree one at a time vs. all at once --> random forest).
 
 
-***Encoders:*** To enhance our model we tried both OneHot and Target Encoding, this can be found in the listed notebook that is located in the repository guide at the bottom of the READ.me
+***Encoders:*** To enhance our model we tried both OneHot and Target Encoding.
   
 
 
 # Conclusion
+Gradient boosting has given us the best ROC_AUC score when predicting the target. 
 
 
 # Future Recommendations
-1. Spend more time with the Logistic Regression model and use it as a baseline model. This is a less complex model we can improve by using feature engineering and other ensemble methods. 
 
-2. Build a model that is able to classify the *"low hangging fruit"* of the churn group. This way the telecommunication companies can focus on the customers who they **most certainly** can convince not to churn.  
+1. Build a model that is able to classify the *"low hanging fruit"* of the churn group. This way the telecommunication companies can focus on the customers who they **most certainly** can convince not to churn.  
 
-3. Conduct a subscriptive analysis after collecting more data. This will help telecommunication companies develop packedges that will save the customer moneny and decrease the number of churning customers. 
+2. Conduct another analysis after collecting more data. We can then help telecommunication companies develop packedges that will save the customer money and decrease the number of churning customers. 
+
+3. Use Feature Importance on our model to remove  the variables that are hurting the results. 
 
 
 # Repository Guide
@@ -70,6 +75,10 @@ Encoders On Random Forest Gradient Boost & AdaBoost:
 Original Data:
 
 Cleaned Data:
+
+**Presentation**
+
+https://www.canva.com/design/DAD5FkbTvBA/4EuOhGUuJgOowr941t6ltg/view
 
 
 # Team Members 
