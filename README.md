@@ -48,7 +48,7 @@ The plan of attack was to do the following:
 # Future Recommendations
 1. Spend more time with the Logistic Regression model and use it as a baseline model. This is a less complex model we can improve by using feature engineering and other ensemble methods. 
 
-2. Build a model that is able to classify the *"low hangging fruit"* of the churn group. This way the telecommunication companies can 
+2. Build a model that is able to classify the *"low hangging fruit"* of the churn group. This way the telecommunication companies can focus on the customers who they **most certainly** can convince not to churn.  
 
 3. Conduct a subscriptive analysis after collecting more data. This will help telecommunication companies develop packedges that will save the customer moneny and decrease the number of churning customers. 
 
