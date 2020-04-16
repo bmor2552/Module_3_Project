@@ -9,11 +9,11 @@
 
 
 **The Problem:**
-  As the world continues to expand, so does our need to communicate. This is why telecommunication companies are so important, they keep us in touch with one another. With the amount of options your companies offer when it comes to communication, a loyal customer is bond to form amongst the customers you cater to. But that is just an assumption! What if you could tell if a particular customer would churn or not?
+  As the world continues to expand, so does our need to communicate. This is why telecommunication companies are so important, they keep us in touch with one another. With the amount of options your companies offer when it comes to communication, a loyal customer is bound to form amongst the customers you cater to. But that is just an assumption! What if you could tell if a particular customer would churn or not?
 
 
 **The Solution:**
-   If we could tell you who amongst your customer roster will discontinue their services with you, you could create a focus group for that newly discovered roster. From there you could work on potential loyal customers who may just need a little more love when it comes to their services. But before you show them some love you need to find out who needs it first, and that is where our model comes in and predicts who will churn on you. 
+   If we could tell you who amongst your customer roster will discontinue their services with you, you could create a focus group for that newly discovered roster. From there you could work on potential loyal customers who may just need a little more love when it comes to their services. But before you show them some love, you need to know who needs it first, and that is where our model comes in.
 
 
 **The Process**
@@ -24,7 +24,7 @@ The plan of attack was to do the following:
 3. Model the data
 
 
-***The Data:*** The data was provided by the Kaggle member david_becks which consisted of collected data on churns in telecommunication data.
+***The Data:*** The data was provided by the Kaggle member david_becks which consisted of collected data on churns in telecommunication companies.
 
 ***The Metrics:*** For the metrics we chose Accuracy Score and the ROC AUC Score, you can find more information on the scoring metrics in the resource section located at the bottom of the READ.me.
 
@@ -38,7 +38,8 @@ The plan of attack was to do the following:
 ***Gradient Boost & AdaBoost:***  The two methods above fall under the ensemble category of modeling. We wanted to give the two models a try to see how they would perform. Boosting in general trains decision trees iteratively so that the next tree it builds makes up for the weakness of the previous tree (improving each tree one at a time vs. all at once --> random forest). In the repository guide located at the bottom of the READ.me you will find the notebook that contains booth gradient boost and adaboost.  
 
 
-***Encoders:***
+***Encoders:*** To enhance our model we tried both OneHot and Target Encoding, this can be found in the listed notebook that is located in the repository guide at the bottom of the READ.me
+  
 
 
 # Conclusion
@@ -46,6 +47,22 @@ The plan of attack was to do the following:
 # Future Recommendations
 
 # Repository Guide
+
+***Notebooks***
+
+Data Clean Up With Baseline Model: 
+
+Gradient Boost & AdaBoot:
+
+Logistic Regression With Encoding:
+
+Encoders On Random Forest Gradient Boost & AdaBoost:
+
+***CSV Files***
+
+Original Data:
+
+Cleaned Data:
 
 
 # Team Members 
