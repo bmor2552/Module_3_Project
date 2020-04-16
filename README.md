@@ -62,19 +62,20 @@ Gradient boosting has given us the best ROC_AUC score when predicting the target
 
 ***Notebooks***
 
-Data Clean Up With Baseline Model: Jupyter_Notebook/ Customer_Churn_Baseline.ipynb
+Data Clean Up With Baseline Model: https://github.com/Tyasuoka/Module_3_Project/blob/master/Jupyter_Notebook/%20Customer_Churn_Baseline.ipynb
 
-Gradient Boost & AdaBoot: Jupyter_Notebook/Gradient_Boost_AdaBoost.ipynb
+Gradient Boost & AdaBoot: https://github.com/Tyasuoka/Module_3_Project/blob/master/Jupyter_Notebook/Gradient_Boost_AdaBoost.ipynb
 
-Logistic Regression With Encoding: Jupyter_Notebook/Mod_3_Baseline_Log_Reg.ipynb
+Logistic Regression With Encoding: 
+https://github.com/Tyasuoka/Module_3_Project/blob/master/Jupyter_Notebook/Mod_3_Baseline_Log_Reg.ipynb
 
-Encoders On Random Forest Gradient Boost & AdaBoost: Jupyter_Notebook/OneHot_Target_Encoders.ipynb
+Encoders On Random Forest Gradient Boost & AdaBoost: https://github.com/Tyasuoka/Module_3_Project/blob/master/Jupyter_Notebook/OneHot_Target_Encoders.ipynb
 
 ***CSV Files***
 
-Original Data: CSV_Files/Telecom_churn.csv
+Original Data: https://github.com/Tyasuoka/Module_3_Project/blob/master/CSV_Files/Telecom_churn.csv
 
-Cleaned Data: CSV_Files/Cleaned_Churn_Data.csv
+Cleaned Data: https://github.com/Tyasuoka/Module_3_Project/blob/master/CSV_Files/Cleaned_Churn_Data.csv
 
 **Presentation**
 
