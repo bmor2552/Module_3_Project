@@ -79,7 +79,7 @@ Cleaned Data: https://github.com/Tyasuoka/Module_3_Project/blob/master/CSV_Files
 
 **Presentation**
 
-https://www.canva.com/design/DAD5FkbTvBA/4EuOhGUuJgOowr941t6ltg/view
+https://www.canva.com/design/DAD5FkbTvBA/EENajulaT4BcXTQAhPN3rQ/view?utm_content=DAD5FkbTvBA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 
 # Team Members 
