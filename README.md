@@ -78,7 +78,6 @@ Original Data: https://github.com/Tyasuoka/Module_3_Project/blob/master/CSV_File
 Cleaned Data: https://github.com/Tyasuoka/Module_3_Project/blob/master/CSV_Files/Cleaned_Churn_Data.csv
 
 **Presentation**
-
 https://www.canva.com/design/DAD5FkbTvBA/EENajulaT4BcXTQAhPN3rQ/view?utm_content=DAD5FkbTvBA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 
