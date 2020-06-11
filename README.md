@@ -121,11 +121,9 @@ https://www.kaggle.com/becksddf/churn-in-telecoms-dataset
  
  
  # Human Resources 
-  
-  
+
 Lindsey Berlin DS 02-17-2020 Coach
-  
-  
+
 Bryan Arnold DS 02-17-2020 Lead Instructor
   
   
