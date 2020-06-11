@@ -1,5 +1,6 @@
 # To Churn or No to Churn
-![seesaw](to churn or not.jpg)
+![seesaw](https://github.com/bmor2552/Module_3_Project/blob/master/to%20churn%20or%20not.jpg?raw=true)
+
 **The Project:** For our module 3 project we had a choice of three different data frames that would exercise our knowledge of classification problems when dealing with real world data.
 
 
@@ -44,7 +45,7 @@ The plan of attack was to do the following:
 # Conclusion
 Gradient boosting has given us the best ROC_AUC score when predicting the target. Below you will see the classification of the predicted target using a confusion matrix plot.  
 
-![confusion matrix plot](Confusion matrix.png)
+![confusion matrix plot](https://github.com/bmor2552/Module_3_Project/blob/master/Confusion%20matrix.png?raw=true)
 
 # Future Recommendations
 
