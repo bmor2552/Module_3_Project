@@ -1,19 +1,15 @@
 # To Churn or No to Churn
-
-**The Project:**
-  For our module 3 project we had a choice of three different data frames that would exercise our knowledge of classification problems when dealing with real world data.
-
-
-**The Goal:**
-  The focus of this project was to build a classification model that is able the predict on the set target of a data frame. Our business problem was binary so our target wasn't hard to distinguish from the rest of the data. 
+![seesaw](to churn or not.jpg)
+**The Project:** For our module 3 project we had a choice of three different data frames that would exercise our knowledge of classification problems when dealing with real world data.
 
 
-**The Problem:**
-  As the world continues to expand, so does our need to communicate. This is why telecommunication companies are so important, they keep us in touch with one another. With the amount of options your companies offer when it comes to communication, a loyal customer is bound to form amongst the customers you cater to. But that is just an assumption! What if you could tell if a particular customer would churn or not?
+**The Goal:** The focus of this project was to build a classification model that is able the predict on the set target of a data frame. Our business problem was binary so our target wasn't hard to distinguish from the rest of the data. 
 
 
-**The Solution:**
-   If we could tell you who amongst your customer roster will discontinue their services with you, you could create a focus group for that newly discovered roster. From there you could work on potential loyal customers who may just need a little more love when it comes to their services. But before you show them some love, you need to know who needs it first, and that is where our model comes in.
+**The Problem:** As the world continues to expand, so does our need to communicate. This is why telecommunication companies are so important, they keep us in touch with one another. With the amount of options your companies offer when it comes to communication, a loyal customer is bound to form amongst the customers you cater to. But that is just an assumption! What if you could tell if a particular customer would churn or not?
+
+
+**The Solution:** If we could tell you who amongst your customer roster will discontinue their services with you, you could create a focus group for that newly discovered roster. From there you could work on potential loyal customers who may just need a little more love when it comes to their services. But before you show them some love, you need to know who needs it first, and that is where our model comes in.
 
 
 **The Process**
@@ -46,8 +42,9 @@ The plan of attack was to do the following:
 
 
 # Conclusion
-Gradient boosting has given us the best ROC_AUC score when predicting the target. 
+Gradient boosting has given us the best ROC_AUC score when predicting the target. Below you will see the classification of the predicted target using a confusion matrix plot.  
 
+![confusion matrix plot](Confusion matrix.png)
 
 # Future Recommendations
 
@@ -77,7 +74,7 @@ Original Data: https://github.com/Tyasuoka/Module_3_Project/blob/master/CSV_File
 
 Cleaned Data: https://github.com/Tyasuoka/Module_3_Project/blob/master/CSV_Files/Cleaned_Churn_Data.csv
 
-**Presentation**
+# Presentation
 https://www.canva.com/design/DAD5FkbTvBA/EENajulaT4BcXTQAhPN3rQ/view?utm_content=DAD5FkbTvBA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 
@@ -126,9 +123,9 @@ https://www.kaggle.com/becksddf/churn-in-telecoms-dataset
  # Human Resources 
   
   
- Lindsey Berlin DS 02-17-2020 Coach
+Lindsey Berlin DS 02-17-2020 Coach
   
   
- Bryan Arnold DS 02-17-2020 Lead Instructor
+Bryan Arnold DS 02-17-2020 Lead Instructor
   
   
